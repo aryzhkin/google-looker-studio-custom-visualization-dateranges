@@ -1,4 +1,4 @@
-# fixing non-existing `DataRanges` object in the Custom Visualization Looker Studio.
+# Custom Visualization Looker Studio: fixing non-existing `DataRanges`
 
 ## Issue
 Google's documentation for Looker Studio [says](https://developers.google.com/looker-studio/visualization/library-reference#data) that we can access the `dataRanges` object (which contains the dates selected in the current report to filter the data on that report) via `data.dataRanges`.
