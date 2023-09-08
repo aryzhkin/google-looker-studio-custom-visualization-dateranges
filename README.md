@@ -18,7 +18,7 @@ To fix it, we need to make changes to the `dscc.min.js` (from [this doc](https:/
 
 Just replace the code in this file with [fixed_min.js](https://github.com/aryzhkin/google-looker-studio-custom-visualization-dateranges/blob/5c4920f86f94697588a21f735b8212096cff0eff/fixed_min.js).
 
-Or you can insert this line yourself from the [fixed.js](https://github.com/aryzhkin/google-looker-studio-custom-visualization-dateranges/blob/5c4920f86f94697588a21f735b8212096cff0eff/fixed_unminified.js#L206) (line #206)
+Or you can insert this line yourself from the [fixed_unminified.js](https://github.com/aryzhkin/google-looker-studio-custom-visualization-dateranges/blob/5c4920f86f94697588a21f735b8212096cff0eff/fixed_unminified.js#L206) (line #206)
 
 ### Simple usage example
 ```
