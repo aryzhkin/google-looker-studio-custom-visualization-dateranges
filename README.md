@@ -15,7 +15,7 @@ Below is an example of how to fix this.
 
 To fix it, we need to make changes to the `dscc.min.js` (from [this doc](https://developers.google.com/looker-studio/visualization/library)) code.
 
-Just replace the code in this file with [fixed_min.js](https://github.com/aryzhkin/google-looker-studio-custom-visualization-dateranges/blob/5c4920f86f94697588a21f735b8212096cff0eff/fixed_min.js).
+Just replace the code in this file with [fixed_min.js](https://github.com/aryzhkin/google-looker-studio-custom-visualization-dateranges/blob/48f3cda2b9cb5a2c0a90c6aecc2db66ae187e324/fixed_min.js).
 
 Or you can insert this line yourself from the `fixed_unminified.js` file:
 - For `tableTransform`
