@@ -34,3 +34,10 @@ dscc.subscribeToData(drawViz, { transform: dscc.tableTransform });
 - https://developers.google.com/looker-studio/visualization/library
 - https://stackoverflow.com/questions/76962670/not-receiving-daterange-objects-via-dscc
 
+## About me
+I specialize in:
+- No-code/low-code tools: like Zapier, make.com & so on
+- Google: Sheets, Drive, Gmail, Calendar, Cloud Console, Google Apps Scripts (GAS), Looker Studio (Data Studio)
+- Chrome extensions
+
+Feel free to contact with me on the Upwork: [my profile](https://www.upwork.com/fl/~01c9651f77aea190cf).
