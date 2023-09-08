@@ -202,7 +202,7 @@
                 style: U(e),
                 theme: Y(e),
                 interactions: s(e),
-                // HERE IS THE CHANGES
+                // HERE IS THE CHANGES FOR tableTransform
                 customDataRanges: Boolean(e.dataResponse.dateRanges)
                   ? e.dataResponse.dateRanges
                   : null,
@@ -227,6 +227,10 @@
                   style: U(e),
                   theme: Y(e),
                   interactions: s(e),
+                  // HERE IS THE CHANGES FOR objectTransform
+                  customDataRanges: Boolean(e.dataResponse.dateRanges)
+                  ? e.dataResponse.dateRanges
+                  : null
                 };
                 var R, C, t, n;
               });
